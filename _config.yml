@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alice Patania Ph.D."
+title                    : "Alice Patania"
 title_separator          : "-"
 name                     : &name "Alice Patania"
 description              : &description "Applied Mathematician - Topological Data Analysis expert"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Alice Patania"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Research Scientist at Indiana University Network Science Institute (IUNI)"
   location         : "Bloomington (IN)"
   employer         :
