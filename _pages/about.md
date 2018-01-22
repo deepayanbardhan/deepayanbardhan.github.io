@@ -15,7 +15,7 @@ An algebraic topologist by training, my main focus is to develop and apply new t
 
 Here are some of the projects I am focusing on right now:
 
-- Simplicial Configuration Model: Random model for Simplicial Complexes, joint work with Jean-Gabriel Young @ Université Laval, Quebec City;;
+- Simplicial Configuration Model: Random model for Simplicial Complexes, joint work with Jean-Gabriel Young @ Université Laval, Quebec City;
 - Statistical properties of random graphs from an homological pont of view, joint work with Dr. Riccardo Jadanza and Prof. Francesco Vaccarino @ Politecnico di Torino;
 - Studying Mathematical models of community structures in relation to simplicial complexes, joint work with Jean-Gabriel Young @ Université Laval, Quebec City;
 - Topological gene-expression networks on brain, joint work with G.Petri, P. Expert, M. Veronese, P. Selvaggi @ King's College, London
