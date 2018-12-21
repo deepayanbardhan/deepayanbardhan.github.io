@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "P-persistent homology of finite topological spaces"
+collection: pre-prints
+permalink: /publication/2015-02-18-one-graph
+excerpt: 'Let P be a finite partially ordered set, briefly a finite poset. We will show that for any P-persistent object X in the category of finite topolog- ical spaces, there is a P− weighted graph, whose clique complex has the same P-persistent homology as X.'
+date: 2015
+venue: 'arXiv:1502.04873'
+paperurl: 'https://arxiv.org/pdf/1502.04873.pdf'
+citation: 'Vaccarino, F., Patania, A., & Petri, G. (2015). &quot;P-persistent homology of finite topological spaces.&quot; <i>arXiv preprint</i>. arXiv:1502.04873.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Let P be a finite partially ordered set, briefly a finite poset. We will show that for any P-persistent object X in the category of finite topolog- ical spaces, there is a P− weighted graph, whose clique complex has the same P-persistent homology as X.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/pdf/1502.04873.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Vaccarino, F., Patania, A., & Petri, G. (2015). "P-persistent homology of finite topological spaces." <i>arXiv preprint</i>. arXiv:1502.04873.
