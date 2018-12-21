@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alice Patania"
 title_separator          : "-"
 name                     : &name "Alice Patania"
-description              : &description "Assistant Research Scientist at IUNI"
+description              : &description "Assistant Research Scientist at Indiana University Network Science Institute (IUNI)"
 url                      : https://alpatania.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "alpatania.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Alice Patania"
   avatar           : "profile.jpg"
-  bio              : "Assistant Research Scientist at Indiana University Network Science Institute (IUNI)"
-  location         : "Bloomington (IN)"
+  bio              : "Assistant Research Scientist"
+  location         : "IUNI, Bloomington (IN)"
   employer         :
   googlescholar    : "https://scholar.google.it/citations?user=Cv-w3LIAAAAJ&hl=en"
   email            :
