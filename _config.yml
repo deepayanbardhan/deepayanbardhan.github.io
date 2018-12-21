@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Alice Patania"
 title_separator          : "-"
 name                     : &name "Alice Patania"
-description              : &description "Applied Mathematician - Topological Data Analysis expert"
+description              : &description "Assistant Research Scientist at IUNI"
 url                      : https://alpatania.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "alpatania/alpatania.github.io"
+repository               : "alpatania.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Alice Patania"
   avatar           : "profile.jpg"
-  bio              : "Research Scientist at Indiana University Network Science Institute (IUNI)"
+  bio              : "Assistant Research Scientist at Indiana University Network Science Institute (IUNI)"
   location         : "Bloomington (IN)"
   employer         :
   googlescholar    : "https://scholar.google.it/citations?user=Cv-w3LIAAAAJ&hl=en"
