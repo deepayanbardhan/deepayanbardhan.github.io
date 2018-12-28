@@ -54,12 +54,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-[//]: # (Teaching)
-[//]: # (======)
-[//]: # (  <ul>{% for post in site.teaching %})
-[//]: # (    {% include archive-single-cv.html %})
-[//]: # (  {% endfor %}</ul>)
-  
 Service and leadership
 ======
 * Co-organized Warmup School at CSS 2018, 2017
