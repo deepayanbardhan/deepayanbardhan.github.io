@@ -12,12 +12,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  <p> {{ post.collection }} </p>
   {% if post.collection == 'publications' %}
     {% include archive-single.html %}
   {% endif %}
-{% endfor %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
 {% endfor %}
