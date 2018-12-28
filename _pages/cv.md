@@ -19,20 +19,20 @@ Work experience
 ======
 * JUNE 2017 - JUNE 2020: Assistant Research Scientist
   * Network Science Institute (IUNI), Indiana University, Bloomington (USA)
-  * Partial support from IMAGENE - NIH funded grant, Supervisor: Liana G. Apostolova, M.D.
+  - Partial support from IMAGENE - NIH funded grant, Supervisor: Liana G. Apostolova, M.D.
 
 * 2014 - MARCH 2017: PhD Student
   * I.S.I. Foundation, Turin (Italy)
-  * Part of the "Mathematics and Foundation of Complex Systems" research group
-  * Supervisors: Prof. Francesco Vaccarino, Dott. Giovanni Petri
+  - Part of the "Mathematics and Foundation of Complex Systems" research group
+  - Supervisors: Prof. Francesco Vaccarino, Dott. Giovanni Petri
 
 * JUNE - NOVEMBER 2013: Research Assistant
   * I.S.I. Foundation, Turin (Italy)
-  * Part of the "Mathematics and Foundation of Complex Systems" research group : 
-   * Writing a working code that computes the tidy set of a simplicial complex (C++ using igraph);
-   * Working on application of discrete exterior calculus to complex systems and network theory;
-   * Working on the categorical foundations of persistent homology.
-  * Supervisor: Prof. Francesco Vaccarino
+  - Part of the "Mathematics and Foundation of Complex Systems" research group : 
+    * Writing a working code that computes the tidy set of a simplicial complex (C++ using igraph);
+    * Working on application of discrete exterior calculus to complex systems and network theory;
+    * Working on the categorical foundations of persistent homology.
+  - Supervisor: Prof. Francesco Vaccarino
   
 Skills
 ======
