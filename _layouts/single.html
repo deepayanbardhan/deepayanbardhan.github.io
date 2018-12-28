@@ -92,6 +92,7 @@ layout: default
       </div>-->
       <div class="grid__wrapper">
         {% for post in site.related_posts limit:4 %}
+        <p> {{ post.collection }} </p>
         {% if post.collection == 'publications' %}
           {% include archive-single.html type="grid" %}
         {% endif %}
