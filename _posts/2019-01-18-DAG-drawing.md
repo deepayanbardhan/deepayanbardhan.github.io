@@ -24,7 +24,7 @@ The Sugiyama Method consists of 4 Steps:
 3. Vertex ordering
 4. Coordinate Assignment
 
-The first issue with applying a DAG to a Mapper built graph is that mapper graphs are not directed. What we can do is consider the direction to be induced by the monotonic variation in the filter chosen for the construction of the graph. The directed graph constructed this way is going to be acyclic by construction of the mapper algorithm. Therefore, Step 1. is now superfluous.   
+The first issue with applying a DAG based method to a Mapper built graph is that mapper graphs are not directed. What we can do is consider the direction to be induced by the monotonic variation in the filter chosen for the construction of the graph. The directed graph constructed this way is going to be acyclic by construction of the mapper algorithm. Therefore, Step 1. is now superfluous.   
 The filter information of the Mapper does not only come handy for assigning direction to the undirected edges in the graph, but also with completing Step 2. of the Sugiyama method: Layer Assignment. In our visualization of the Mapper we want to highlight the levels of construction of the graph. Hence, we can assign a layer to each bin. This is rather useful since, by construction, the nodes in each bin are not connected with each other.  
 
 The Sugiyama Method for Mapper consists of 2 Steps:
