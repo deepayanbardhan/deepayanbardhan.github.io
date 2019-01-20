@@ -28,7 +28,7 @@ The first issue with applying a DAG to a Mapper built graph is that mapper graph
 The filter information of the Mapper does not only come handy for assigning direction to the undirected edges in the graph, but also with completing Step 2. of the Sugiyama method: Layer Assignment. In our visualization of the Mapper we want to highlight the levels of construction of the graph. Hence, we can assign a layer to each bin. This is rather useful since, by construction, the nodes in each bin are not connected with each other.  
 
 The Sugiyama Method for Mapper consists of 2 Steps:
-1'. Vertex ordering
-2'. Coordinate Assignment
+1. Vertex ordering
+2. Coordinate Assignment
 
 More updates as I learn more and fully develop the algorithm ... 
