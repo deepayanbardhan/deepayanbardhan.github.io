@@ -11,8 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% if post.collection == 'publications' %}
-    {% include archive-single.html %}
-  {% endif %}
-{% endfor %}
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
