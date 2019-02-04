@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-In Progress
-===========
+### In Progress...
 
 This is a WIP
 {% for post in site.code reversed %}
