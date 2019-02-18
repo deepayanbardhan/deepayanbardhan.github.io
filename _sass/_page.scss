@@ -57,6 +57,8 @@
 
   p, li, dl {
     font-size: .825em;
+     
+    font-weight: 100;
   }
 
   /* paragraph indents */
@@ -87,7 +89,7 @@
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
-    font-weight: normal;
+    font-weight: bold;
   }
 
   dd {
