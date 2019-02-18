@@ -24,3 +24,10 @@ Here are some of the projects I am focusing on right now:
 - Studying Mathematical models of community structures in relation to simplicial complexes;
 - Creating a Python module for a high dimensional Mapper Algorithm;
 - Topological Data Analysis on Health data (rna transcriptomes, quantitative semantic data, brain networks from fMRI, EEG, DTI).
+
+# News
+{% include base_path %}
+
+  <ul>{% for post in site.posts reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
