@@ -7,6 +7,6 @@ Title/ Authors - Journal/ Google Scholar link/ Date/ number of Alerts that conta
 '
 date: 2018-10-10
 venue: 'Git'
-link: 'https://github.com/alpatania/sassafras'
+paperlink: 'https://github.com/alpatania/sassafras'
 citation: 'https://github.com/alpatania/sassafras'
 ---
