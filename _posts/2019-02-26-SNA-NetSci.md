@@ -10,7 +10,7 @@ tags:
 Since I moved to [IUNI](iuni.iu.edu) as an Assistant Research Scientist, I have been struggling to communicate in a precise scientific language with network scientist in Sociology. The main problem being that the same terms I have learned from network scientists in Informatics do not always mean exactly the same thing in the two disciplines.  
 So here I am going to try and put together a list of resources for Informatics/Physics trained network scientist to better navigate the long history of Social Network Analysis in Sociology.  
 
-**DISCLAIMER: Actually the [SNA Wikipedia page](https://en.wikipedia.org/wiki/Social_network_analysis) is pretty amazing and clear. Here is and excerp, but if you are interested I would suggest to read it that.**
+**DISCLAIMER: Actually the [SNA Wikipedia page](https://en.wikipedia.org/wiki/Social_network_analysis) is pretty amazing and easy to read. Here is and excerp, but if you are interested I would suggest to read it that.**
 
 ## Connections
 
