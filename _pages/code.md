@@ -13,6 +13,6 @@ author_profile: true
 *This is a WIP - Look at my GitHub repos in the meantime :)*
 {% for post in site.code reversed %}  
   {% if post.collection == 'code' %}  
-    {% include archive-single-cv.html %}  
+    {% include archive-single.html %}  
   {% endif %}  
 {% endfor %}  
