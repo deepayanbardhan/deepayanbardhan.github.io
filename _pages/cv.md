@@ -11,8 +11,8 @@ redirect_from:
 
 ### Education
 
-* B.S. in Mathematics, Universita di Torino, 2009
-* M.S. in Mathematics, Universita di Torino, 2012
+* B.S. in Mathematics, Universitá di Torino, 2009
+* M.S. in Mathematics, Universitá di Torino, 2012
 * Ph.D in Applied Mathematics, Politecnico di Torino, 2017
 
 ### Work experience
