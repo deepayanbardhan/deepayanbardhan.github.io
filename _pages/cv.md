@@ -33,24 +33,16 @@ redirect_from:
     * Working on application of discrete exterior calculus to complex systems and network theory;
     * Working on the categorical foundations of persistent homology.
   - Supervisor: Prof. Francesco Vaccarino
-  
-### Skills
-
-* TDA
-* Python
-  * networkx
-  * matplotlib
-  * pandas
 
 ### Publications
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ### Talks
 
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
