@@ -44,11 +44,9 @@ So here I am going to try and put together a list of resources for Informatics/P
 
 **Cohesion:** The degree to which actors are connected directly to each other by cohesive bonds. Structural cohesion refers to the minimum number of members who, if removed from a group, would disconnect the group.
 
-# Further Reading
+# Further Reading on centrality measures
 Robert A. Hanneman and Mark Riddle [Introduction to social network methods](http://faculty.ucr.edu/~hanneman/nettext/index.html)  
-(https://arxiv.org/pdf/1608.05845.pdf)  
-(http://www.leonidzhukov.net/hse/2014/socialnetworks/papers/Bonacich-Centrality.pdf)  
-(https://cs.brynmawr.edu/Courses/cs380/spring2013/section02/slides/05_Centrality.pdf)  
-(https://web.archive.org/web/20110217151303/http://www.oeaw.ac.at/byzanz/historicaldynamics.htm)  
-(https://web.archive.org/web/20110516133549/http://stat.gamma.rug.nl/SnijdersSteglichVdBunt2009.pdf)  
+Francis Bloch, Matthew O. Jackson, Pietro Tebaldi [Centrality Measures in Networks](https://arxiv.org/pdf/1608.05845.pdf)  
+Phillip Bonacich [Power and Centrality: A Family of Measures](http://www.leonidzhukov.net/hse/2014/socialnetworks/papers/Bonacich-Centrality.pdf)  
+*Based on materials by Lada Adamic, UMichigan* [Network Centrality](https://cs.brynmawr.edu/Courses/cs380/spring2013/section02/slides/05_Centrality.pdf)   
 
