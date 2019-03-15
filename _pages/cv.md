@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+### Education
+
 * B.S. in Mathematics, Universita di Torino, 2009
 * M.S. in Mathematics, Universita di Torino, 2012
 * Ph.D in Applied Mathematics, Politecnico di Torino, 2017
 
-Work experience
-======
+### Work experience
+
 * JUNE 2017 - JUNE 2020: Assistant Research Scientist
   * Network Science Institute (IUNI), Indiana University, Bloomington (USA)
   - Partial support from IMAGENE - NIH funded grant, Supervisor: Liana G. Apostolova, M.D.
@@ -34,28 +34,28 @@ Work experience
     * Working on the categorical foundations of persistent homology.
   - Supervisor: Prof. Francesco Vaccarino
   
-Skills
-======
+### Skills
+
 * TDA
 * Python
   * networkx
   * matplotlib
   * pandas
 
-Publications
-======
+### Publications
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
+### Talks
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
+### Service and leadership
+
 * Co-organized Warmup School at CSS 2018, 2017
 * Currently a member of the Advisory board ot the yrCSS.
 * Member of the NetSci Society
