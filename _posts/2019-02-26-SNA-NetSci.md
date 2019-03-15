@@ -46,9 +46,9 @@ So here I am going to try and put together a list of resources for Informatics/P
 
 # Further Reading
 Robert A. Hanneman and Mark Riddle [Introduction to social network methods](http://faculty.ucr.edu/~hanneman/nettext/index.html)  
-https://arxiv.org/pdf/1608.05845.pdf  
-http://www.leonidzhukov.net/hse/2014/socialnetworks/papers/Bonacich-Centrality.pdf  
-https://cs.brynmawr.edu/Courses/cs380/spring2013/section02/slides/05_Centrality.pdf  
-https://web.archive.org/web/20110217151303/http://www.oeaw.ac.at/byzanz/historicaldynamics.htm  
-https://web.archive.org/web/20110516133549/http://stat.gamma.rug.nl/SnijdersSteglichVdBunt2009.pdf  
+(https://arxiv.org/pdf/1608.05845.pdf)  
+(http://www.leonidzhukov.net/hse/2014/socialnetworks/papers/Bonacich-Centrality.pdf)  
+(https://cs.brynmawr.edu/Courses/cs380/spring2013/section02/slides/05_Centrality.pdf)  
+(https://web.archive.org/web/20110217151303/http://www.oeaw.ac.at/byzanz/historicaldynamics.htm)  
+(https://web.archive.org/web/20110516133549/http://stat.gamma.rug.nl/SnijdersSteglichVdBunt2009.pdf)  
 
