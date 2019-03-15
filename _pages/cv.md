@@ -48,8 +48,9 @@ redirect_from:
   
 ### Service and leadership
 
-* Co-organized Warmup School at CSS 2018, 2017
-* Currently a member of the Advisory board ot the yrCSS.
+* Co-chair of the first Open Network Science Hackaton in Burlington, Vermont
+* Co-organized Warmup School at the Conference on Complex Systems 2018, 2017
+* Member of the Advisory board ot the yrCSS 2017-2019.
 * Member of the NetSci Society
 * Member of the Complex Systems Society
 * Member of Women in Computational Topology - WinCompTop
