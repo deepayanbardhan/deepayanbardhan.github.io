@@ -20,7 +20,6 @@ Here are some of the projects I am focusing on right now:
 - Analysing dMRI lifespan data, joint work with Olaf Sporns, Joshua Faskowitz @ Indiana University
 - Developing a stochastic sampler for Directed Simplicial Complexes;
 - Studying Mathematical models of community structures in relation to simplicial complexes;
-- Creating a Python module for a high dimensional Mapper Algorithm;
 - Topological Data Analysis on Health data (rna transcriptomes, quantitative semantic data, brain networks from fMRI, EEG, DTI).
 
 # News
