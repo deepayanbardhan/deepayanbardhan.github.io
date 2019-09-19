@@ -33,9 +33,9 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h3>
-    {% if post.date %}
-      <p class="page__meta">{{ post.date | date: '%B %Y' }}</p>
-    {% endif %}
+    #{% if post.date %}
+    #  <p class="page__meta">{{ post.date | date: '%B %Y' }}</p>
+    #{% endif %}
     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %}
  
  </article>
