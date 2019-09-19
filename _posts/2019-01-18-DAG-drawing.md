@@ -1,5 +1,5 @@
 ---
-title: 'Layared DAG drawing - list of useful reading'
+title: 'Layered DAG drawing - list of useful reading'
 date: 2019-01-18
 permalink: /posts/2019/01/DAG-drawing/
 tags:
