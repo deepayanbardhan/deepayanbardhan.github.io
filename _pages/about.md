@@ -25,6 +25,6 @@ Here are some of the projects I am focusing on right now:
 # News
 {% include base_path %}
 
-  <ul>{% for post in site.posts reversed %}
+{% for post in site.posts reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
