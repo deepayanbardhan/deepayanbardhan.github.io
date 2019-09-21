@@ -30,7 +30,7 @@
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% elsif post.collection == 'code' %}
-        <a href="{{ post.paperlink }}">{{ title }}</a>
+        <a href="{{ post.paperlink }}" target="_blank">{{ title }}</a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">GIT: {{ title }}</a>
       {% endif %}
