@@ -33,7 +33,7 @@
       {% endif %}
     </ul>-->
     
-    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <p class="author__urls social-icons" style = "display:inline;">
+    <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i><div class="author__urls-wrapper" style = "font-weight: 400;"> <p class="author__urls social-icons" style = "display:inline;">
       {% if author.employer %}
         {{ author.employer }}</br>
       {% endif %}
@@ -41,7 +41,7 @@
         {{ author.location }}</br>
       {% endif %}
     </p>
-    
+    <div class="author__urls-wrapper" style = "font-weight: 400;">
     <p style = "display:inline;" align="left">
       <!--<a href="mailto:{{ author.email }}" style="color: #222222; text-decoration: none;"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i>{{ author.email }}</a>-->
       <i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> apatania{at}iu{dot}edu
