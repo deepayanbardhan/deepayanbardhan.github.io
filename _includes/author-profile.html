@@ -35,6 +35,7 @@
         <li><a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
     </ul>
+    <p>
       {% if author.twitter %}
         <a href="https://twitter.com/{{ author.twitter }}"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> </a>
       {% endif %}
@@ -42,12 +43,12 @@
         <a href="https://github.com/{{ author.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> </a>
       {% endif %}
       {% if author.googlescholar %}
-        <a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> Google </a>
+        <a href="{{ author.googlescholar }}"><i class="ai ai-google-scholar-square ai-fw"></i> </a>
       {% endif %}
       {% if author.orcid %}
         <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> </a>
       {% endif %}
-    
+    </p>
     
 <!--<ul class="author__urls social-icons">
       {% if author.linkedin %}
