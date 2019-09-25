@@ -35,10 +35,10 @@
     
     <p class="author__urls social-icons" style = "display:inline;">
       {% if author.employer %}
-        <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}
+        <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</br>
       {% endif %}
       {% if author.location %}
-        <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}
+        {{ author.location }}</br>
       {% endif %}
     </p>
     
