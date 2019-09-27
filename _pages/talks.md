@@ -2,6 +2,7 @@
 layout: archive
 title: "Talks and presentations"
 permalink: /talks/
+bg-img: "bg-talks.png"
 author_profile: true
 ---
 
