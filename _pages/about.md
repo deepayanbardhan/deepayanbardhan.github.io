@@ -25,7 +25,7 @@ redirect_from:
 # News
 {% include base_path %}
 
-<div class="page-background"
+<div class="body"
 style="background-image: url("https://alpatania.github.io/images/bg_about.png");
 background-position: 90% 100%;
 background-repeat: no-repeat;"
