@@ -8,7 +8,7 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  background-image: url("images/bg_about.png");
+  background-image: url("https://alpatania.github.io/images/bg_about.png");
   background-position: right bottom; /*Positioning*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
   &.overflow--hidden {
