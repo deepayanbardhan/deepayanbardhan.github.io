@@ -11,13 +11,13 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body class="Site {{ page.title }}">
+  <body class="{{ page.title }}">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
-    <main class="Site-content">
+    
     {{ content }}
-    </main>
+    
     </script>
 
     <div class="page__footer">
