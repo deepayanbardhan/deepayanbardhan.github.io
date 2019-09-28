@@ -8,7 +8,8 @@ body {
   color: $text-color;
   font-family: $global-font-family;
   line-height: 1.5;
-  background-image: url("https://alpatania.github.io/images/bg_about.png"); /* the image url.url(../images/{% if page.bg-img %}{{ page.bg-img }}{% else %}{{bg_about.png}}{% endif %});*/
+  /*background-image: url("https://alpatania.github.io/images/bg_about.png"); /* the image url.*/
+  background-image: {% if page.bg-img %}url("{{ page.bg-img }}"){% else %}url("https://alpatania.github.io/images/bg_about.png"){% endif %};*/
   background-position: 90% 100%; /*Positioning - right bottom*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
   &.overflow--hidden {
