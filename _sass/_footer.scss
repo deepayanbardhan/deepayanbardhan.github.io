@@ -17,7 +17,7 @@
   footer {
     @include container;
     @include clearfix;
-    margin-top: 2em;
+    margin-top: auto;
     padding: 0 1em 2em;
 
     @include breakpoint($x-large) {

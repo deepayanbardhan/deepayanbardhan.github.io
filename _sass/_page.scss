@@ -57,7 +57,7 @@
 
   p, li, dl {
     font-size: .825em;
-     
+
     font-weight: 100;
   }
 
@@ -400,4 +400,18 @@
   margin-bottom: 10px;
   font-size: $type-size-6;
   text-transform: uppercase;
+}
+
+/*
+   Footer Fix
+   ========================================================================== */
+
+.Site {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+.Site-content {
+  flex: 1;
 }
