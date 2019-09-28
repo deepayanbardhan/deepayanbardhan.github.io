@@ -45,7 +45,9 @@
   }
 
   img {
-    width: 200%;
+     @include breakpoint($large) {
+       width: 200%;
+     }
   }
 }
 
