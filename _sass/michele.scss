@@ -26,5 +26,6 @@
 	display: block;
 	@include breakpoint($large) {
 		padding-left: 10px;
+		text-align: left;
 	}
 }
