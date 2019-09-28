@@ -15,65 +15,29 @@ body {
 }
 
 body.About {
-  margin: 0;
-  padding: 0;
-  color: $text-color;
-  font-family: $global-font-family;
-  line-height: 1.5;
   background-image: url("https://alpatania.github.io/images/bg_about.png"); /* the image url.*/
   background-position: 90% 80%; /*Positioning - right bottom*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
-  &.overflow--hidden {
-    /* when primary navigation is visible, the content in the background won't scroll */
-    overflow: hidden;
-  }
 }
 
 
 body.Publications {
-  margin: 0;
-  padding: 0;
-  color: $text-color;
-  font-family: $global-font-family;
-  line-height: 1.5;
   background-image: url("https://alpatania.github.io/images/bg_publications.png"); /* the image url.*/
   background-position: 90% 80%; /*Positioning - right bottom*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
-  &.overflow--hidden {
-    /* when primary navigation is visible, the content in the background won't scroll */
-    overflow: hidden;
-  }
 }
 
 
 body.Code {
-  margin: 0;
-  padding: 0;
-  color: $text-color;
-  font-family: $global-font-family;
-  line-height: 1.5;
   background-image: url("https://alpatania.github.io/images/bg_code.png"); /* the image url.*/
   background-position: 90% 80%; /*Positioning - right bottom*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
-  &.overflow--hidden {
-    /* when primary navigation is visible, the content in the background won't scroll */
-    overflow: hidden;
-  }
 }
 
 body.Talks {
-  margin: 0;
-  padding: 0;
-  color: $text-color;
-  font-family: $global-font-family;
-  line-height: 1.5;
   background-image: url("https://alpatania.github.io/images/bg_talks.png"); /* the image url.*/
   background-position: 90% 80%; /*Positioning - right bottom*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
-  &.overflow--hidden {
-    /* when primary navigation is visible, the content in the background won't scroll */
-    overflow: hidden;
-  }
 }
 
 h1, h2, h3, h4, h5, h6 {
