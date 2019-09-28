@@ -4,6 +4,10 @@
 
 .author__urls-wrapper{
     margin-top: -20px;
+	@include breakpoint($large) {
+		padding-left: 10px;
+		text-align: left;
+	}
 }
 
 .archive{
