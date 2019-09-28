@@ -2,6 +2,7 @@
 layout: archive
 title: "Code"
 permalink: /code/
+bg_img: 'https://alpatania.github.io/images/bg_code.png'
 author_profile: true
 ---
 

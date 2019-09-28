@@ -2,6 +2,7 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
+bg_img: 'https://alpatania.github.io/images/bg_publications.png'
 author_profile: true
 ---
 

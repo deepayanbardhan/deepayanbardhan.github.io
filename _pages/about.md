@@ -3,8 +3,8 @@ permalink: /
 title: "About me"
 excerpt: "About me"
 author_profile: true
-bg-img: "https://alpatania.github.io/images/bg_about.png"
-redirect_from: 
+bg_img: 'https://alpatania.github.io/images/bg_about.png'
+redirect_from:
   - /about/
   - /about.html
 ---

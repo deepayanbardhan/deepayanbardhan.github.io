@@ -2,7 +2,7 @@
 layout: archive
 title: "Talks and presentations"
 permalink: /talks/
-bg-img: "https://alpatania.github.io/images/bg-talks.png"
+bg_img: 'https://alpatania.github.io/images/bg_talks.png'
 author_profile: true
 ---
 
