@@ -24,4 +24,7 @@
 
 .author__content{
 	display: block;
+	@include breakpoint($large) {
+		padding-left: 10px;
+	}
 }
