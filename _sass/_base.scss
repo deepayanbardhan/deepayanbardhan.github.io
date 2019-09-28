@@ -18,7 +18,7 @@ body.About {
   background-image: url("https://alpatania.github.io/images/bg_about.png"); /* the image url.*/
   background-position: 90% 80%; /*Positioning - right bottom*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
-  @media screen and (max-width: 1000px){ background-image: none};
+  @media screen and (max-width: 1200px){ background-image: none};
 }
 
 
@@ -26,6 +26,7 @@ body.Publications {
   background-image: url("https://alpatania.github.io/images/bg_publications.png"); /* the image url.*/
   background-position: 90% 80%; /*Positioning - right bottom*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
+  @media screen and (max-width: 1200px){ background-image: none};
 }
 
 
@@ -33,12 +34,14 @@ body.Code {
   background-image: url("https://alpatania.github.io/images/bg_code.png"); /* the image url.*/
   background-position: 90% 80%; /*Positioning - right bottom*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
+  @media screen and (max-width: 1200px){ background-image: none};
 }
 
 body.Talks {
   background-image: url("https://alpatania.github.io/images/bg_talks.png"); /* the image url.*/
   background-position: 90% 80%; /*Positioning - right bottom*/
   background-repeat: no-repeat; /*Prevent showing multiple background images*/
+  @media screen and (max-width: 1200px){ background-image: none};
 }
 
 h1, h2, h3, h4, h5, h6 {
