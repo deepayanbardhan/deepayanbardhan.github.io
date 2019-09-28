@@ -12,6 +12,9 @@
 
 .sidebar img{
 	width: 100%;
+	@include breakpoint($large) {
+		width: 200%;
+	}
 }
 
 .author__avatar{
