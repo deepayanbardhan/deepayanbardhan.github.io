@@ -32,7 +32,8 @@
       {% elsif post.collection == 'publications' %}
         <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
       {% else %}
-        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+        <!--<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>-->
+        {{ title }} - <a href="{{ base_path }}{{ post.pdfurl }}" rel="permalink">Slides</a>
       {% endif %}
     </h3>
     {% if post.collection == "talks" %}
