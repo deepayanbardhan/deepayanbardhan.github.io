@@ -33,7 +33,7 @@
         <a href="{{ post.paperurl }}" target="_blank">{{ title }}</a>
       {% else %}
         <!--<a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>-->
-        {{ title }} - <a href="{{ base_path }}{{ post.pdfurl }}" rel="permalink">Slides</a>
+        {{ title }}{%if post.pdfurl %} - <a href="{{ base_path }}{{ post.pdfurl }}" rel="permalink">Slides</a>{% endif %}
       {% endif %}
     </h3>
     {% if post.collection == "talks" %}
