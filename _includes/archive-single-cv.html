@@ -37,9 +37,8 @@
              </h3> 
       {% elsif post.collection == 'talks' %}
             <h3 class="archive__item-title" itemprop="headline"  style="text-decoration: none;">
-              {{ title }}
+              {{ title }}{%if post.pdfurl %} - <a href="{{ base_path }}{{ post.pdfurl }}" rel="permalink" style="color:#52adc8;">Slides</a>{% endif %}
             </h3>
-            {%if post.pdfurl %} - <a href="{{ base_path }}{{ post.pdfurl }}" rel="permalink">Slides</a>{% endif %}
         {% else %}
             <h3 class="archive__item-title" itemprop="headline">
               <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
