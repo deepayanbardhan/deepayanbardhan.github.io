@@ -15,7 +15,7 @@ subscribe to.
 
 **How do the Google Scholar Alerts work?**  
 Google Scholar is a freely accessible web search engine that indexes the full text or metadata of scholarly literature across an array of publishing formats and disciplines 
-[[Wikipedia!](https://en.wikipedia.org/wiki/Google_Scholar)]. Every researcher can have their own page with their verified indexed research in the systems and suggestion of
+[[Wikipedia](https://en.wikipedia.org/wiki/Google_Scholar)]. Every researcher can have their own page with their verified indexed research in the systems and suggestion of
 new research in their areas. I find it very useful when doing some literature review for new projects, or discovering other peoples' research. It is possible to sign-up for 
 weekly email alering you of new papers indexed in the systems that are relevant to your research, somebody else's research, new papers by your favorite scientists or related 
 to a certain keywords. Even though the Google Alerts can be very useful, receiving 10 emails a week about the same paper can be quite annoying, so I decided to do something about it.
@@ -28,4 +28,4 @@ There are optional functions for sending a summary email with the most common pa
 
 It is not perfect, but it has helped me keep up with some of the new research out there.  
 
-You can find the code in my Git [Sassafras Repo!](https://github.com/alpatania/sassafras), together with some instructions on how to set it up and run the script authomaticaly every week.
+You can find the code in my Git [Sassafras Repo](https://github.com/alpatania/sassafras), together with some instructions on how to set it up and run the script authomaticaly every week.
