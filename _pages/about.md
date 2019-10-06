@@ -26,6 +26,6 @@ redirect_from:
 # News
 {% include base_path %}
 
-{% for post in site.posts reversed %}
+{% for post in site.posts %}
     {% include archive-single-cv.html %}
   {% endfor %}
