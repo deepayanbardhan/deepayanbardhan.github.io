@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style = "font-weight: 400;">An algebraic topologist by training, my main focus is to develop and apply new topological approaches to study complex systems. In particular, I work on applying these tools to biological networks.  </p>
+<p style = "font-weight: 400;">An algebraic topologist by training, my main focus is to develop and apply new topological approaches to study complex systems. Currently, I apply these techniques to brain and social networks but you can take a look at my full cv <a href="https://alpatania.github.io/cv/"> here</a>!</p>
 
 <p style = "font-weight: 400;">I am currently a Research Scientist at <a href = "http://iuni.iu.edu/">Indiana University Network Science Institute (IUNI)</a> in Bloomington (IN). I work on mathematical modelling for brain networks in close collaboration with Olaf Sporns and his team. I am partially founded by the IMAGENE project to develop models for the joint analysis of genomics and neuroimaging data.  </p>
 
