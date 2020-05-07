@@ -106,7 +106,7 @@ author:
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://datascience.stackexchange.com/users/95782/deepayan-bardhan
+  stackoverflow    : "https://datascience.stackexchange.com/users/95782/deepayan-bardhan"
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
