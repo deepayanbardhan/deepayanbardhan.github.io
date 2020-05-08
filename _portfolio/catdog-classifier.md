@@ -4,7 +4,7 @@ excerpt: "CNN based classifier for categorising dogs from cats<br/><img src='/im
 collection: portfolio
 ---
 
-## Cat-Dog-Classification
+## Brief overview of the project
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)    ![Problem Kaggle](https://img.shields.io/badge/Problem-Vision-blue.svg)     ![Problem Kaggle](https://img.shields.io/badge/Data-Kaggle-orange.svg)
 
