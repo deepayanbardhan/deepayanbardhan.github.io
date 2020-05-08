@@ -1,6 +1,6 @@
 ---
 title: "Texture Segmentation"
-excerpt: "Separating textures using Mixture Model and EM algorithm<br/><img src='/images/test_ip/tm1_1_1.png'><img src='https://github.com/deepayanbardhan/TextureSegmentation/blob/master/test_op/test1r.png'>"
+excerpt: "Separating textures using Mixture Model and EM algorithm<br/><img src='/images/texturesegmentation-cover.jpg'><img src='https://github.com/deepayanbardhan/TextureSegmentation/blob/master/test_op/test1r.png'>"
 collection: portfolio
 ---
 
