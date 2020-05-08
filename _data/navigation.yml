@@ -2,10 +2,7 @@
 main:
      
   - title: "Projects"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+    url: /projects/
     
   - title: "Resume"
     url: /files/resume_deepayan.pdf
