@@ -1,8 +1,8 @@
 ---
 header:
-  image: coverpic.jpg
+  image: coverimg.jpg
 permalink: /
-title: "About me"
+title: "Cover Image"
 excerpt: "Deepayan Bardhan main homepage."
 author_profile: true
 redirect_from: 
