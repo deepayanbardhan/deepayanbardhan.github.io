@@ -1,6 +1,6 @@
 ---
 title: "Cat-Dog Classification using CNN"
-excerpt: "CNN based classifier for categorising dogs from cats<br/><img src='/images/catdog-cover.JPG' width="200">"
+excerpt: "CNN based classifier for categorising dogs from cats<br/><img src='/images/catdog-cover.JPG'>"
 collection: portfolio
 ---
 
