@@ -1,7 +1,7 @@
 ---
-layout: archive
-title: "CV"
-permalink: /resume/
+<!--layout: archive-->
+title: "Deepayan Bardhan"
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.Tech. in Electrical Engineering, Indian Institute of Engineering Science and Technology Shibpur, 2018
-* M.S. in Electrical and Computer Engineering, North Carolina State University, 2020
+[Click to View My Up-to-date Curriculum Vitae [PDF]](http://deepayanbardhan.github.io/files/resume_deepayan.pdf)
 
-
+<!-- <embed src="http://deepayanbardhan.com/files/resume_deepayan.pdf" width="650" height="1800" type='application/pdf'> -->
