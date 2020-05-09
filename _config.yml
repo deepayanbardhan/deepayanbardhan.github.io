@@ -20,13 +20,14 @@ words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
-comments:
+comments                 :
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
-  disqus:
+  disqus                 :
     shortname            :
-  discourse:
+  discourse              :
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook:
+  facebook               : "deepayan.bardhan"
+  instagram              : "mr.deepayan"
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -94,12 +95,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "deepayan.bardhan"
+  facebook         : 
   foursquare       :
   github           : "deepayanbardhan"
   google_plus      :
   keybase          :
-  instagram        : "mr.deepayan"
+  instagram        : 
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "deepayan-bardhan-85849817a"
