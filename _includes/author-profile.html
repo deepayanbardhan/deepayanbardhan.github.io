@@ -43,12 +43,6 @@
       {% if author.codechef %}
         <li><a href="https://codechef.com/users/{{ author.codechef }}"><i class="iconify" data-icon="simple-icons:codechef" data-inline="false"></i> Codechef</a></li>
       {% endif %}
-      {% if author.leetcode %}
-        <li><a href="https://leetcode.com/{{ author.leetcode }}"><i class="iconify" data-icon="simple-icons:leetcode" data-inline="false"></i> Leetcode</a></li>
-      {% endif %}
-      {% if author.hackerrank %}
-        <li><a href="https://hackerrank.com/{{ author.hackerrank }}"><i class="fab fa-fw fa-hackerrank" aria-hidden="true"></i> Hackerrank</a></li>
-      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -76,6 +70,12 @@
       {% endif %}
       {% if author.instagram %}
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+      {% endif %}
+      {% if author.leetcode %}
+        <li><a href="https://leetcode.com/{{ author.leetcode }}"><i class="iconify" data-icon="simple-icons:leetcode" data-inline="false"></i> Leetcode</a></li>
+      {% endif %}
+      {% if author.hackerrank %}
+        <li><a href="https://hackerrank.com/{{ author.hackerrank }}"><i class="fab fa-fw fa-hackerrank" aria-hidden="true"></i> Hackerrank</a></li>
       {% endif %}
       -->
       {% if author.tumblr %}
