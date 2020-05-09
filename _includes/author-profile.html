@@ -40,8 +40,11 @@
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
-      {% if author.stackoverflow %}
-        <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
+      {% if author.codechef %}
+        <li><a href="https://codechef.com/{{ author.codechef }}"> Codechef</a></li>
+      {% endif %}
+      {% if author.kaggle %}
+        <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-kaggle" aria-hidden="true"></i> Kaggle</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -59,6 +62,9 @@
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
       {% endif %}
       <!--
+      {% if author.stackoverflow %}
+        <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
+      {% endif %}
       {% if author.facebook %}
         <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
       {% endif %}
