@@ -26,8 +26,7 @@ comments                 :
     shortname            :
   discourse              :
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
-  facebook               : "deepayan.bardhan"
-  instagram              : "mr.deepayan"
+  facebook               : 
     appid                :
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
@@ -95,12 +94,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : "deepayan.bardhan"
   foursquare       :
   github           : "deepayanbardhan"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        : "mr.deepayan"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "deepayan-bardhan-85849817a"
