@@ -3,7 +3,7 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
-
+<script src="https://code.iconify.design/1/1.0.6/iconify.min.js"></script>
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
@@ -41,7 +41,7 @@
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
       {% if author.codechef %}
-        <li><a href="https://codechef.com/users/{{ author.codechef }}"> Codechef</a></li>
+        <li><a href="https://codechef.com/users/{{ author.codechef }}"><i class="iconify" data-icon="simple-icons:codechef" data-inline="false"></i> Codechef</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
