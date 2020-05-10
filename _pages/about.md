@@ -5,6 +5,7 @@ permalink: /
 title: "About me"
 excerpt: "Deepayan Bardhan main homepage."
 author_profile: true
+bg_img: 'https://deepayanbardhan.github.io/images/bg_cover.png'
 redirect_from: 
   - /about/
   - /about.html
