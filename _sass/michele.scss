@@ -1,0 +1,43 @@
+.fa.fa-fw.fa-map-marker{
+    display:none;
+}
+
+.author__urls-wrapper{
+    margin-top: -20px;
+	@include breakpoint($large) {
+		padding-left: 10px;
+		text-align: left;
+	}
+}
+
+.archive{
+    padding-right: 16.9491525424%;
+}
+
+.sidebar img{
+	width: 100%;
+	@include breakpoint($large) {
+		width: 200%;
+	}
+}
+
+.author__avatar{
+	display: block;
+	width: 72px;
+}
+
+.author__content{
+	display: block;
+	@include breakpoint($large) {
+		padding-left: 10px;
+		text-align: left;
+	}
+}
+
+.page__inner-wrap{
+	font-weight: 400;
+}
+
+.page__content p {
+	font-weight: 400;
+}
