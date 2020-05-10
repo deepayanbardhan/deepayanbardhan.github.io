@@ -21,6 +21,29 @@ body {
   }
 }
 
+body.About {
+  background-image: url("https://deepayanbardhan.github.io/images/bg_about.png"); /* the image url.*/
+  background-position: 90% 80%; /*Positioning - right bottom*/
+  background-repeat: no-repeat; /*Prevent showing multiple background images*/
+  @media screen and (max-width: 1200px){ background-image: none};
+}
+
+
+body.Portfolio {
+  background-image: url("https://deepayanbardhan.github.io/images/bg_project.png"); /* the image url.*/
+  background-position: 90% 80%; /*Positioning - right bottom*/
+  background-repeat: no-repeat; /*Prevent showing multiple background images*/
+  @media screen and (max-width: 1200px){ background-image: none};
+}
+
+
+body.CV {
+  background-image: url("https://deepayanbardhan.github.io/images/bg_resume.png"); /* the image url.*/
+  background-position: 90% 80%; /*Positioning - right bottom*/
+  background-repeat: no-repeat; /*Prevent showing multiple background images*/
+  @media screen and (max-width: 1200px){ background-image: none};
+}
+
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
