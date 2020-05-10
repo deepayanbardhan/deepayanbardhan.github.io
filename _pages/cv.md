@@ -3,6 +3,7 @@
 title: "Deepayan Bardhan"
 permalink: /cv/
 author_profile: true
+bg_img: 'https://deepayanbardhan.github.io/images/bg_resume.png'
 redirect_from:
   - /resume
 ---
