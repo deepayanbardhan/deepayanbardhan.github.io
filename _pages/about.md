@@ -23,9 +23,3 @@ redirect_from:
     <li>Algorithms & Optimizations</li>
   </ul>
 </div>
-
-## Research Interests:
-- Machine Learning & Artifical Intelligence
-- Computer Vision & Image Processing
-- Data Science & Data Analysis
-- Algorithms & Optimizations
