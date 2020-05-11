@@ -43,7 +43,6 @@ redirect_from:
                         <li>jQuery, backbone, node</li>
                         <li>Django, App engine</li>
                         <li>LESS, Bootstrap, d3.js</li>
-                        
                     </ul>
                     <ul class="skills">
                         <li>MySQL, MongoDB</li>
@@ -113,7 +112,6 @@ redirect_from:
                     <h3><a href="https://github.com/nuterian">github.com/nuterian</a></h3>
                 </div>
             </div>
-            
             <div class="section row">
                 <h2 class="col">Honors</h2>
                 <div class="section-text col-right">
