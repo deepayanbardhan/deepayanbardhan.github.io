@@ -1,6 +1,6 @@
 ---
 <!--layout: archive-->
-title: "Deepayan Bardhan"
+title: "Deepayan Bardhan - Resume"
 permalink: /cv/
 author_profile: true
 bg_img: 'https://deepayanbardhan.github.io/images/bg_resume.png'
@@ -8,12 +8,10 @@ redirect_from:
   - /resume
 ---
 
-<!doctype html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
-        <title>Jugal Manjeshwar - Resume</title>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="https://github.com/nuterian/resume/blob/master/style.css">
         <link href="https://fonts.googleapis.com/css?family=Merriweather:300,400,700|Source+Sans+Pro:400,400i" rel="stylesheet">
     <body>
         <div class="page">
