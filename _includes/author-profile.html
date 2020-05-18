@@ -29,14 +29,34 @@
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
       {% endif %}
       {% if author.linkedin %}
-        <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" style="font-size:18px;" aria-hidden="true"></i> LinkedIn</a></li>
+        <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" style="font-size:18px;" aria-hidden="true"></i> LinkedIn</a>
       {% endif %}
       {% if author.github %}
-        <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" style="font-size:18px;" aria-hidden="true"></i> Github</a></li>
+        <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" style="font-size:18px;" aria-hidden="true"></i> Github</a>
       {% endif %}
       {% if author.codechef %}
-        <li><a href="https://codechef.com/users/{{ author.codechef }}"><i class="iconify" style="font-size:18px;" data-icon="simple-icons:codechef" data-inline="false"></i> Codechef</a></li>
+        <a href="https://codechef.com/users/{{ author.codechef }}"><i class="iconify" style="font-size:18px;" data-icon="simple-icons:codechef" data-inline="false"></i> Codechef</a>
       {% endif %}
+      {% if author.kaggle %}
+        <a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-kaggle" style="font-size:18px;color: #37BAE8 ;" aria-hidden="true"></i> Kaggle</a>
+      {% endif %}
+      <!--
+      {% if author.stackoverflow %}
+        <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
+      {% endif %}
+      {% if author.facebook %}
+        <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
+      {% endif %}
+      {% if author.instagram %}
+        <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+      {% endif %}
+      {% if author.leetcode %}
+        <li><a href="https://leetcode.com/{{ author.leetcode }}"><i class="iconify" data-icon="simple-icons:leetcode" data-inline="false"></i> Leetcode</a></li>
+      {% endif %}
+      {% if author.hackerrank %}
+        <li><a href="https://hackerrank.com/{{ author.hackerrank }}"><i class="fab fa-fw fa-hackerrank" aria-hidden="true"></i> Hackerrank</a></li>
+      {% endif %}
+      -->
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
       {% endif %}
@@ -58,26 +78,7 @@
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
       {% endif %}
-      {% if author.kaggle %}
-        <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-kaggle" style="font-size:18px;color: #37BAE8 ;" aria-hidden="true"></i> Kaggle</a></li>
-      {% endif %}
-      <!--
-      {% if author.stackoverflow %}
-        <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
-      {% endif %}
-      {% if author.facebook %}
-        <li><a href="https://www.facebook.com/{{ author.facebook }}"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> Facebook</a></li>
-      {% endif %}
-      {% if author.instagram %}
-        <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
-      {% endif %}
-      {% if author.leetcode %}
-        <li><a href="https://leetcode.com/{{ author.leetcode }}"><i class="iconify" data-icon="simple-icons:leetcode" data-inline="false"></i> Leetcode</a></li>
-      {% endif %}
-      {% if author.hackerrank %}
-        <li><a href="https://hackerrank.com/{{ author.hackerrank }}"><i class="fab fa-fw fa-hackerrank" aria-hidden="true"></i> Hackerrank</a></li>
-      {% endif %}
-      -->
+      
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
       {% endif %}
