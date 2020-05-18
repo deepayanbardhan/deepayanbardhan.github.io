@@ -25,13 +25,15 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      <div class="author__urls-wrapper" style = "font-weight: 400; margin-top: 10px;">
       <p style = "font-weight: 400; font-size: 15px;" align="center">
-        <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" style="font-size:16px;" aria-hidden="true"></i> </a>
+        <a href="mailto:{{ author.email }}"><i class="fa fa-fw fa-envelope-square" style="font-size:16px;" aria-hidden="true"></i> </a>
         <a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" style="font-size:18px;" aria-hidden="true"></i> </a>
         <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" style="font-size:18px;" aria-hidden="true"></i> </a>
         <a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-kaggle" style="font-size:18px;color: #37BAE8 ;" aria-hidden="true"></i> </a>
         <a href="https://codechef.com/users/{{ author.codechef }}"><i class="iconify" style="font-size:18px;" data-icon="simple-icons:codechef" data-inline="false"></i> </a>
       </p>
+      </div>
       <!--
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" style="font-size:16px;" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "Email" }}</a></li>
