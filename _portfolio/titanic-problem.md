@@ -1,6 +1,6 @@
 ---
 title: "Titanic Survival Prediction"
-excerpt: ""
+excerpt: "Predicting the survivals of test samples(/person) using some of the given cases result. This problem is based on feature analysis and classification."
 collection: portfolio
 ---
 
