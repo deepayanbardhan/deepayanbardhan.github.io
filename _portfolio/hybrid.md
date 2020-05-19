@@ -1,6 +1,7 @@
 ---
 title: "Hybrid Image Generation"
 excerpt: "Blending images by averaging them in the frequency domain<br/><img src='/images/hybrid-cover.jpg'>"
+excerpt: "Blending images by averaging them in the frequency domain"
 collection: portfolio
 ---
 
