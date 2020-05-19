@@ -1,7 +1,7 @@
 ---
 title: "Texture Segmentation"
-<!--excerpt: "Separating textures using Mixture Model and EM algorithm<br/><img src='/images/texturesegmentation-cover.jpg'>"-->
-excerpt: ""
+excerpt: "Separating textures using Mixture Model and EM algorithm<br/><img src='/images/texturesegmentation-cover.jpg'>"
+excerpt: "Separating textures using Mixture Model and EM algorithm"
 collection: portfolio
 ---
 
