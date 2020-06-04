@@ -8,7 +8,7 @@ collection: portfolio
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)    ![Problem Kaggle](https://img.shields.io/badge/Problem-Vision-blue.svg)     ![Problem Kaggle](https://img.shields.io/badge/Data-Kaggle-orange.svg)
 
-<img src="/images/hwdc.gif" align="center">
+<img src="/images/hwdc.gif" alt="centered image">
  
 <p style = "font-weight: 400; font-size: 15px;" align="justify">Hand written text classification is one of the basic problems in the field of Machine Learning. There has been so many techniques developed for the task for example ANN, Perceptron modelling and many more. But one of the most common architecture that has been able to perform much better than most of the other ML architectures is CNN. Convolutional Neural Networks, commonly known as CNN, are very popular when it comes to pattern recognition and image analysis because of its ease of use and the results that they produce. </p>
 
@@ -20,16 +20,16 @@ In this particular project, I have tried to perform 2 specific tasks:
   </ul>
 </div>
 
-<div style = "font-weight: 400; font-size: 15px;">
-  <h4> Implementing and Demonstrating CNN:
-    <p align="justify"> Here I have built a CNN model using Keras framework. The Keras framework allows us to build a CNN model very easily. It has been demonstrated how a CNN model actaully classifies an image in its respective class or what does a layer in CNN sees when it gets certain images. The details can be checked in <a href="https://www.kaggle.com/dbardhan/beginners-guide-to-cnns-99-47" style="text-decoration:none;">my notebook code</a>. The model has been trained using the MNIST data. The data has been obtained from <a href="https://www.kaggle.com/c/digit-recognizer/data" style="text-decoration:none;">this</a> link. The simple model has reached accuracy of 98.7% and reaches around 99.5% when rotational and linear translational variances are also considered. Although it is true that the data provided is clean and not very difficult for a model to learn it still can be said how good CNNs work when it comes to pattern observations.</p>
-  <h4> Identifying digits:
-    <p align="justify"> In this section apart from solving the <a href="https://www.kaggle.com/c/digit-recognizer" style="text-decoration:none;">kaggle challenge</a> above I have extended it to finding digits in live videos or images and classifying them. Here the main objective is - given a frame containing a number, identifying and correctly cropping and resizing it so that it can be provided into the trained classifier model to get the output. So to perform the task the following flow is being used:<br>
-      <img src="/images/hwdc.gif" align="center">
+
+<h3> Implementing and Demonstrating CNN: </h3>
+    <p style = "font-weight: 400; font-size: 15px;" align="justify"> Here I have built a CNN model using Keras framework. The Keras framework allows us to build a CNN model very easily. It has been demonstrated how a CNN model actaully classifies an image in its respective class or what does a layer in CNN sees when it gets certain images. The details can be checked in <a href="https://www.kaggle.com/dbardhan/beginners-guide-to-cnns-99-47" style="text-decoration:none;">my notebook code</a>. The model has been trained using the MNIST data. The data has been obtained from <a href="https://www.kaggle.com/c/digit-recognizer/data" style="text-decoration:none;">this</a> link. The simple model has reached accuracy of 98.7% and reaches around 99.5% when rotational and linear translational variances are also considered. Although it is true that the data provided is clean and not very difficult for a model to learn it still can be said how good CNNs work when it comes to pattern observations.</p>
+ 
+<h3> Identifying digits: </h3>
+    <p style = "font-weight: 400; font-size: 15px;" align="justify"> In this section apart from solving the <a href="https://www.kaggle.com/c/digit-recognizer" style="text-decoration:none;">kaggle challenge</a> above I have extended it to finding digits in live videos or images and classifying them. Here the main objective is - given a frame containing a number, identifying and correctly cropping and resizing it so that it can be provided into the trained classifier model to get the output. So to perform the task the following flow is being used:<br>
+      <img src="/images/hwdc.gif" alt="centered image">
     <br>So, once the image is extracted we feed it into the pretrained model, generated using the previous mentioned point, and get the output. For the ease of demonstration I have made a GUI application that does the mentioned work. Just to see the working I have put the recording of the same.
-      <video width="320" height="240" controls>
+      <video width="620" height="540" controls>
       <source src="/images/hwdc.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
     </p>
-</div>
