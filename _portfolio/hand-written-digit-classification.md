@@ -34,24 +34,24 @@ In this particular project, I have tried to perform 2 specific tasks:
     A sample of how the above images look:
  <br>
  
- <figure>
+
   <img src="/images/lhwdc/4/gray.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Image after ocnverting to Gray Scale</figcaption>
+  <figcaption>Fig - Image after converting to Gray Scale</figcaption><br>
   <img src="/images/lhwdc/4/blur.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Burring the image</figcaption>
+  <figcaption>Fig - Bluring the image</figcaption><br>
   <img src="/images/lhwdc/4/edge.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Applying edge detector on the blurred image</figcaption>
+  <figcaption>Fig - Applying edge detector on the blurred image</figcaption><br>
   <img src="/images/lhwdc/4/thresh.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Applying a threshold to the previous image</figcaption>
+  <figcaption>Fig - Applying a threshold to the previous image</figcaption><br>
   <img src="/images/lhwdc/4/dil.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Diluting image</figcaption>
+  <figcaption>Fig - Diluting image</figcaption><br>
   <img src="/images/lhwdc/4/bbox.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Final Bounding box</figcaption>
-</figure>
+  <figcaption>Fig - Final Bounding box</figcaption><br>
+
 
    
 So, once the image is extracted we feed it into the pretrained model, generated using the previous mentioned point, and get the output. For the ease of demonstration I have made a GUI application that does the mentioned work. Just to see the working I have put the recording of the same.
-      <video width="620" height="540" controls>
+      <video  style="text-align:center" width="620" height="440" controls>
       <source src="/images/lhwdc/hwdc.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
