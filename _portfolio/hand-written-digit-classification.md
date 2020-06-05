@@ -8,7 +8,7 @@ collection: portfolio
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)    ![Problem Kaggle](https://img.shields.io/badge/Problem-Vision-blue.svg)     ![Problem Kaggle](https://img.shields.io/badge/Data-Kaggle-orange.svg)
 <center>
-<img src="/images/lhwdc/hwdc.gif" alt="centered image">
+<img src="/images/lhwdc/hwdc.gif" alt="centered image" width="350">
  </center>
 <p style = "font-weight: 400; font-size: 15px;" align="justify">Hand written text classification is one of the basic problems in the field of Machine Learning. There has been so many techniques developed for the task for example ANN, Perceptron modelling and many more. But one of the most common architecture that has been able to perform much better than most of the other ML architectures is CNN. Convolutional Neural Networks, commonly known as CNN, are very popular when it comes to pattern recognition and image analysis because of its ease of use and the results that they produce. </p>
 
@@ -31,10 +31,53 @@ In this particular project, I have tried to perform 2 specific tasks:
  </center>
     <br>
  <br>
-    A sample of how the above images look:
+    A sample of how the above images look at each stage of processing:
  <br>
  
+  <table width="600" border="1" cellpadding="5">
+   <tr>
+   <td align="center" valign="center">
+   <img src="/images/lhwdc/4/gray.jpg" alt="description here" />
+   <br />
+   Image after converting to Gray Scale.
+   </td>
+   
+   <td align="center" valign="center">
+   <img src="/images/lhwdc/4/blur.jpg" alt="description here" />
+   <br />
+   Bluring the image.
+   </td>
+   
+   <td align="center" valign="center">
+   <img src="/images/lhwdc/4/edge.jpg" alt="description here" />
+   <br />
+   Applying edge detector on the blurred image.
+   </td>
 
+   </tr>
+   <tr>
+ 
+   <td align="center" valign="center">
+   <img src="/images/lhwdc/4/thresh.jpg" alt="description here" />
+   <br />
+   Applying a threshold to the previous image.
+   </td>
+
+   <td align="center" valign="center">
+   <img src="/images/lhwdc/4/dil.jpg" alt="description here" />
+   <br />
+   Diluting image.
+   </td>
+   
+   <td align="center" valign="center">
+   <img src="/images/lhwdc/4/bbox.jpg" alt="description here" />
+   <br />
+   Final Bounding box.
+   </td>
+
+   </tr>
+   </table>
+  <!--
   <img src="/images/lhwdc/4/gray.jpg" alt="centered image" width="300">
   <figcaption>Fig - Image after converting to Gray Scale</figcaption><br>
   <img src="/images/lhwdc/4/blur.jpg" alt="centered image" width="300">
@@ -47,11 +90,11 @@ In this particular project, I have tried to perform 2 specific tasks:
   <figcaption>Fig - Diluting image</figcaption><br>
   <img src="/images/lhwdc/4/bbox.jpg" alt="centered image" width="300">
   <figcaption>Fig - Final Bounding box</figcaption><br>
+  -->
 
 
-   
-So, once the image is extracted we feed it into the pretrained model, generated using the previous mentioned point, and get the output. For the ease of demonstration I have made a GUI application that does the mentioned work. Just to see the working I have put the recording of the same.
-      <video  style="text-align:center" width="620" height="440" controls>
+  <p style = "font-weight: 400; font-size: 15px;" align="justify">So, once the image is extracted we feed it into the pretrained model, generated using the previous mentioned point, and get the output. As we can see even if we move the live image it still can extract the number by its own. For the ease of demonstration I have made a GUI application that does the mentioned work. Just to see the working I have put the recording of the same.</p>
+      <video  style="text-align:center" width="620" height="400" controls>
       <source src="/images/lhwdc/hwdc.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
