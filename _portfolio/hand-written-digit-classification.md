@@ -77,21 +77,6 @@ In this particular project, I have tried to perform 2 specific tasks:
 
    </tr>
    </table>
-  <!--
-  <img src="/images/lhwdc/4/gray.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Image after converting to Gray Scale</figcaption><br>
-  <img src="/images/lhwdc/4/blur.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Bluring the image</figcaption><br>
-  <img src="/images/lhwdc/4/edge.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Applying edge detector on the blurred image</figcaption><br>
-  <img src="/images/lhwdc/4/thresh.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Applying a threshold to the previous image</figcaption><br>
-  <img src="/images/lhwdc/4/dil.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Diluting image</figcaption><br>
-  <img src="/images/lhwdc/4/bbox.jpg" alt="centered image" width="300">
-  <figcaption>Fig - Final Bounding box</figcaption><br>
-  -->
-
 
   <p style = "font-weight: 400; font-size: 15px;" align="justify">So, once the image is extracted we feed it into the pretrained model, generated using the previous mentioned point, and get the output. As we can see even if we move the live image it still can extract the number by its own. For the ease of demonstration I have made a GUI application that does the mentioned work. Just to see the working I have put the recording of the same.</p>
       <video  style="text-align:center" width="620" height="400" controls>
