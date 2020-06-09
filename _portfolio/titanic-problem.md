@@ -9,7 +9,7 @@ collection: portfolio
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)    ![Problem Kaggle](https://img.shields.io/badge/Problem-Vision-blue.svg)     ![Problem Kaggle](https://img.shields.io/badge/Data-Kaggle-orange.svg)
 
 ### Problem statement:
-<p align="justify">This code is for the Kaggle contest given in [this link](https://www.kaggle.com/c/titanic).
+<p align="justify">This code is for the Kaggle contest given in <a href="https://www.kaggle.com/c/titanic" style="text-decoration:none;">this link</a>.
 
 In this problem, given a training set containing information about people on the titanic and if they eventually survived or not, I have to predict the same for the test samples.</p>
 
@@ -26,6 +26,6 @@ In this problem, given a training set containing information about people on the
 
 ### Conclusion:
 
-<p align="justify">As it can be seen above that Gradient Boosting Classifier, Random Forest and KNN are giving much  better accuracy compared to the other classifiers we could use any of these 3 for the final predictions. Although it cannot be predicted which model will finally give the best results, it can be said that these 3 would perform better than others.However, the classifier itself is only a partial part because the way the features are generated and used plays a very important role in the final results.</p>
+<p align="justify">As it can be seen above that <i>Gradient Boosting Classifier, Random Forest</i> and <i>KNN</i> are giving much  better accuracy compared to the other classifiers we could use any of these 3 for the final predictions. Although it cannot be predicted which model will finally give the best results, it can be said that these 3 would perform better than others.However, the classifier itself is only a partial part because the way the features are generated and used plays a very important role in the final results.</p>
 
 For details of the code and how the above plot has been attained with proper explanation check my Jupyter Notebook File [here](https://www.kaggle.com/dbardhan/easy-to-understand-beginners).
