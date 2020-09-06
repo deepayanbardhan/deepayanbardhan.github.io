@@ -1,6 +1,6 @@
 ---
 title: "Canny Edge from Scratch"
-excerpt: "Implementing Canny Edge Detector from Scratch<br/><img src='/images/edge0.png'>"
+excerpt: "Implementing Canny Edge Detector from Scratch<br/><img src='/images/canny/edge0.png'>"
 excerpt: "Implementing Canny Edge Detector from Scratch"
 collection: portfolio
 ---
